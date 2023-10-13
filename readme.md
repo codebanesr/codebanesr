@@ -6,9 +6,13 @@
 
 - 🤝 **Community Engagement**: I actively engage with the community by addressing issues and assisting new contributors in this exciting open-source project.
 
+## ![OpenCopilot Logo](https://avatars.githubusercontent.com/u/134641592?s=18&v=4) OpenCopilot (Your Personal AI Copilot)
+
+- 🤖 **OpenCopilot**: OpenCopilot is a revolutionary project I've been working on. It allows you to have your own product's AI copilot. It integrates with your underlying APIs and is able to execute API calls whenever needed. It uses LLMs to determine if the user's request requires calling an API endpoint. Then, it decides which endpoint to call and passes the appropriate payload based on the given API definition.
+
 ## GitHub Activity
 
-![GitHub Activity]([![Shanur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codebanesr&bg_color=f1f1f7&color=1a4594&line=309439&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+[![Shanur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codebanesr&bg_color=f1f1f7&color=1a4594&line=309439&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 You can find more of my open-source contributions on my [GitHub profile](https://github.com/codebanesr/).
 
