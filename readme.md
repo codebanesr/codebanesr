@@ -1,36 +1,74 @@
-# Hey, I'm Shanur Rahman! 👋
+# Open Source Contributions
 
-Welcome to my GitHub world, where code meets creativity and innovation. I'm on a mission to build amazing software and contribute to exciting open-source projects. Let's dive into my world of tech:
+## ![OpenChat Logo](https://avatars.githubusercontent.com/u/134641592?s=18&v=4) OpenChat (Open source AI customer support bots)
 
-- 🚀 I'm a Senior Product Specialist at [Penny](https://www.penny.com/), where I'm cooking up some fascinating code magic.
-- 📡 When it comes to tech, I'm the conductor of the orchestra. I've led software projects, from start to finish, and collaborated with fantastic teams.
-- 🎓 I'm a proud graduate with a Bachelor's Degree in Computer Science from [National Institute of Technology](https://www.nitap.ac.in/).
+- 🌟 **Over 30% Contribution**: I've made significant contributions to OpenChat, an open-source project written using Langchain, with support for multiple large language models and vector databases. It has garnered over 4500 GitHub stars.
 
-## My Tech Toolbox 🧰
+- 🤝 **Community Engagement**: I actively engage with the community by addressing issues and assisting new contributors in this exciting open-source project.
 
-- **Version Control**: I speak fluent Git.
-- **Cloud Tech**: AWS is my playground.
-- **Web Wizardry**: Node.js, Angular, React, Java (Vert.x), Rust - I love building cool stuff.
-- **Automation Guru**: Docker and Kubernetes are my sidekicks.
-- **Languages**: I'm fluent in JavaScript, Java, Python, and C.
+## GitHub Activity
 
-## Making Waves in Open Source 🌊
+![GitHub Activity]([![Shanur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codebanesr&bg_color=f1f1f7&color=1a4594&line=309439&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
 
-### OpenChat - Where AI Meets Support
+You can find more of my open-source contributions on my [GitHub profile](https://github.com/codebanesr/).
 
-- I'm a major contributor to OpenChat, an open-source project with 4500+ GitHub stars.
-- I love engaging with the community, addressing issues, and mentoring new contributors.
+# Shanur Rahman
 
-## Fun Facts About Me
+![Profile Picture](https://avatars.githubusercontent.com/u/17947802?v=4)
 
-- 🚴 When I'm not coding, you'll find me cycling through the scenic streets of New Delhi.
-- 🌌 I'm an avid stargazer, always exploring the mysteries of the cosmos.
-- 📚 I believe in the power of knowledge, and I'm constantly learning and growing in the tech world.
+👋 Hi there! I'm Shanur Rahman, a passionate open-source enthusiast and a Senior Product Specialist based in New Delhi, India. Connect with me on [LinkedIn](www.linkedin.com/in/shanurcsenitap) or email me at shanur.cse.nitap@gmail.com.
 
-## Let's Connect! 🌐
+## 💼 Professional Experience
 
-- 📧 Shoot me an email at shanur.cse.nitap@gmail.com. I'd love to chat about code, the universe, or anything in between.
-- 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/shanurcsenitap) to stay in the loop.
-- 💻 Check out my code adventures on [GitHub](https://github.com/codebanesr).
+### Senior Product Specialist at Penny
+📅 April 2022 - Present
 
-Thanks for dropping by, and feel free to reach out for a chat, collaboration, or just to share your favorite coding memes! 🚀✨
+- 🚀 Involved in all stages of the software development life cycle.
+- 🤝 Acted as the primary liaison for project management personnel.
+- 🐇 Optimized event management and file processing by adopting RabbitMQ with horizontal scaling.
+- 🏗️ Transformed the core backend functionality by migrating to RabbitMQ for a highly efficient microservice architecture.
+
+### Senior Product Engineer at Rapido
+📅 March 2021 - April 2022
+
+- 📝 Drafted clear technical documentation and product design specifications.
+- 🚢 Orchestrated large-scale software deployments using Kubernetes.
+- 🚀 Mentored junior developers and improved team performance.
+- 🔄 Updated dependencies and decoupled functionalities from various microservices.
+
+### Full Stack Developer at GameChange Solutions
+📅 February 2020 - March 2021
+
+- 💻 Wrote and reviewed code for microservice backend using Mongodb, Nats Streaming, and WebSocket.
+- 🧪 Wrote test cases and handled code deployments on AWS EC2 instances.
+- 🌐 Built co-browsing features on the sales-key app.
+
+### Full Stack Developer at DeepIQ LLC
+📅 July 2018 - December 2019
+
+- 🖥️ Created the UI for data transformation pipelining tool used by big data companies.
+- 🧩 Developed object-oriented software, including Data Transformation for the Analytics Industry.
+
+### Intern at Brand Buildup LLC
+📅 April 2018 - July 2019
+
+- 🌐 Worked on MEAN stack, handled code deployments, and integrations with 3rd party applications.
+
+## 🎓 Education
+
+### Bachelor's Degree in Computer Science
+📅 January 2014 - January 2018
+
+- 🎓 Graduated with a GPA of 8.35 from the National Institute of Technology.
+
+## 💡 Skills
+
+- Version Control: Git
+- Cloud Technologies: AWS
+- Web Development: Node.js, Angular, React, Java (Vert.x), Rust
+- Automation: Docker, Kubernetes
+- Programming Languages: JavaScript, Java, Python, C
+
+Let's collaborate and build amazing open-source projects together! Feel free to reach out to me. 😄👨‍💻
+
+---
