@@ -3,7 +3,7 @@
 - 💡 I've contributed significantly to various open-source projects, including [OpenChat](https://github.com/openchat) and [OpenCopilot](https://github.com/openchatai/OpenCopilot). OpenCopilot allows you to have your own product's AI copilot, integrating with your underlying APIs, making technology more accessible.
 
 OpenCopilot utilizes large language models (LLMs) to determine if the user's request requires calling an API endpoint, ultimately making tasks more efficient and accessible.
-- 🌟 My goal in life is to make this world a better place to live in by harnessing the power of technology and innovation.
+- 🌟 Striving to make a modest contribution to the world.
 - 👥 My greatest support comes from my friends and family who have been there throughout my journey.
 
 ### Open Source Contributions
@@ -14,7 +14,7 @@ OpenCopilot is another noteworthy open-source project I've contributed to. It al
 ### Work Experience
 In the overview below, you will find my most recent work experience:
 
-[<img align="left" style="margin-right: 20px;" height="94px" width="94px" alt="Penny" src="https://penny.co/wp-content/uploads/2020/07/Penny-Logo.svg?raw=true"/>](https://penny.co)
+[<img align="left" style="margin-right: 20px;" height="94px" width="94px" alt="Penny" src="./images/penny_white.jpg?raw=true"/>](https://penny.co)
 
 **Senior Product Specialist** \
 [**Penny**](https://penny.co) • Full-time \
