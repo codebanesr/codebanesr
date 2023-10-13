@@ -1,6 +1,6 @@
 ### Hi there! 👋
 - 🚀 I'm Shanur Rahman, a Senior Product Specialist at [Penny](https://penny.co), and I'm passionate about making a positive impact through technology.
-- 💡 I've contributed significantly to various open-source projects, including [OpenChat](https://github.com/openchat) and [OpenCopilot](https://github.com/openchatai/OpenCopilot). OpenCopilot allows you to have your own product's AI copilot, integrating with your underlying APIs, making technology more accessible.
+- 💡 I've contributed significantly to various open-source projects, including [OpenChat](https://github.com/openchatai/OpenChat) and [OpenCopilot](https://github.com/openchatai/OpenCopilot).
 
 OpenCopilot utilizes large language models (LLMs) to determine if the user's request requires calling an API endpoint, ultimately making tasks more efficient and accessible.
 - 🌟 Striving to make a modest contribution to the world.
@@ -28,10 +28,10 @@ Languages & Technologies: `RabbitMQ`, `CQRS`, `Microservice Architecture` \
 Languages & Technologies: `Kubernetes`, `Microservices`, `Java`, `Nats Streaming`, `WebSocket` \
 <br/>
 
-[<img align="left" style="margin-right: 20px;" height="94px" width="94px" alt="GameChange Solutions" src="./images/gamechange.jpg?raw=true"/>](https://gamechangesolutions.com)
+[<img align="left" style="margin-right: 20px;" height="94px" width="94px" alt="GameChange Solutions" src="./images/gamechange.jpg?raw=true"/>](https://gamechange.com/)
 
 **Full Stack Developer** \
-[**GameChange Solutions**](https://gamechangesolutions.com) • Full-time \
+[**GameChange Solutions**](https://gamechange.com/) • Full-time \
 Languages & Technologies: `MongoDB`, `Nats Streaming`, `WebSocket`, `AWS` \
 <br/>
 
