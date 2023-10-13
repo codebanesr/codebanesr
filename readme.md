@@ -1,78 +1,59 @@
-# Open Source Contributions
+### Hi there! 👋
+- 🚀 I'm Shanur Rahman, a Senior Product Specialist at [Penny](https://penny.co), and I'm passionate about making a positive impact through technology.
+- 💡 I've contributed significantly to various open-source projects, including [OpenChat](https://github.com/openchat) and [OpenCopilot](https://github.com/openchatai/OpenCopilot). OpenCopilot allows you to have your own product's AI copilot, integrating with your underlying APIs, making technology more accessible.
 
-## ![OpenChat Logo](https://avatars.githubusercontent.com/u/134641592?s=18&v=4) OpenChat (Open source AI customer support bots)
+OpenCopilot utilizes large language models (LLMs) to determine if the user's request requires calling an API endpoint, ultimately making tasks more efficient and accessible.
+- 🌟 My goal in life is to make this world a better place to live in by harnessing the power of technology and innovation.
+- 👥 My greatest support comes from my friends and family who have been there throughout my journey.
 
-- 🌟 **Over 30% Contribution**: I've made significant contributions to OpenChat, an open-source project written using Langchain, with support for multiple large language models and vector databases. It has garnered over 4500 GitHub stars.
+### Open Source Contributions
+I've driven significant contributions to OpenChat, an open-source AI customer support bot platform. This project is written using langchain and includes support for multiple large language models and vector databases. OpenChat has received over 4500+ GitHub stars, and I've actively engaged with the community by addressing issues and assisting new contributors.
 
-- 🤝 **Community Engagement**: I actively engage with the community by addressing issues and assisting new contributors in this exciting open-source project.
+OpenCopilot is another noteworthy open-source project I've contributed to. It allows you to have your own product's AI copilot, integrating with underlying APIs and executing API calls when needed, all driven by large language models. This project is hosted at [OpenCopilot](https://github.com/openchatai/OpenCopilot).
 
-## ![OpenCopilot Logo](https://avatars.githubusercontent.com/u/134641592?s=18&v=4) OpenCopilot (Your Personal AI Copilot)
+### Work Experience
+In the overview below, you will find my most recent work experience:
 
-- 🤖 **OpenCopilot**: OpenCopilot is a revolutionary project I've been working on. It allows you to have your own product's AI copilot. It integrates with your underlying APIs and is able to execute API calls whenever needed. It uses LLMs to determine if the user's request requires calling an API endpoint. Then, it decides which endpoint to call and passes the appropriate payload based on the given API definition.
+[<img align="left" style="margin-right: 20px;" height="94px" width="94px" alt="Penny" src="https://penny.co/wp-content/uploads/2020/07/Penny-Logo.svg?raw=true"/>](https://penny.co)
 
-## GitHub Activity
+**Senior Product Specialist** \
+[**Penny**](https://penny.co) • Full-time \
+Languages & Technologies: `RabbitMQ`, `CQRS`, `Microservice Architecture` \
+<br/>
 
-[![Shanur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codebanesr&bg_color=f1f1f7&color=1a4594&line=309439&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[<img align="left" style="margin-right: 20px;" height="94px" width="94px" alt="Rapido" src="./images/rapido.png?raw=true"/>](https://rapido.bike)
 
-You can find more of my open-source contributions on my [GitHub profile](https://github.com/codebanesr/).
+**Senior Product Engineer** \
+[**Rapido**](https://rapido.bike) • Full-time \
+Languages & Technologies: `Kubernetes`, `Microservices`, `Java`, `Nats Streaming`, `WebSocket` \
+<br/>
 
-# Shanur Rahman
+[<img align="left" style="margin-right: 20px;" height="94px" width="94px" alt="GameChange Solutions" src="./images/gamechange.jpg?raw=true"/>](https://gamechangesolutions.com)
 
-![Profile Picture](https://avatars.githubusercontent.com/u/17947802?v=4)
+**Full Stack Developer** \
+[**GameChange Solutions**](https://gamechangesolutions.com) • Full-time \
+Languages & Technologies: `MongoDB`, `Nats Streaming`, `WebSocket`, `AWS` \
+<br/>
 
-👋 Hi there! I'm Shanur Rahman, a passionate open-source enthusiast and a Senior Product Specialist based in New Delhi, India. Connect with me on [LinkedIn](www.linkedin.com/in/shanurcsenitap) or email me at shanur.cse.nitap@gmail.com.
+[<img align="left" style="margin-right: 20px;" height="94px" width="94px" alt="Deepiq LLC" src="./images/deepiq_.jpg?raw=true"/>](https://deepiq.com)
 
-## 💼 Professional Experience
+**Full Stack Developer** \
+[**Deepiq LLC**](https://deepiq.com) • Full-time \
+Languages & Technologies: `Angular 7`, `Node.js`, `Data Transformation` \
+<br/>
+<br/>
 
-### Senior Product Specialist at Penny
-📅 April 2022 - Present
+Please find me on [LinkedIn](https://www.linkedin.com/in/shanurcsenitap) for a more detailed description of my full work experience and skills.
 
-- 🚀 Involved in all stages of the software development life cycle.
-- 🤝 Acted as the primary liaison for project management personnel.
-- 🐇 Optimized event management and file processing by adopting RabbitMQ with horizontal scaling.
-- 🏗️ Transformed the core backend functionality by migrating to RabbitMQ for a highly efficient microservice architecture.
-
-### Senior Product Engineer at Rapido
-📅 March 2021 - April 2022
-
-- 📝 Drafted clear technical documentation and product design specifications.
-- 🚢 Orchestrated large-scale software deployments using Kubernetes.
-- 🚀 Mentored junior developers and improved team performance.
-- 🔄 Updated dependencies and decoupled functionalities from various microservices.
-
-### Full Stack Developer at GameChange Solutions
-📅 February 2020 - March 2021
-
-- 💻 Wrote and reviewed code for microservice backend using Mongodb, Nats Streaming, and WebSocket.
-- 🧪 Wrote test cases and handled code deployments on AWS EC2 instances.
-- 🌐 Built co-browsing features on the sales-key app.
-
-### Full Stack Developer at DeepIQ LLC
-📅 July 2018 - December 2019
-
-- 🖥️ Created the UI for data transformation pipelining tool used by big data companies.
-- 🧩 Developed object-oriented software, including Data Transformation for the Analytics Industry.
-
-### Intern at Brand Buildup LLC
-📅 April 2018 - July 2019
-
-- 🌐 Worked on MEAN stack, handled code deployments, and integrations with 3rd party applications.
-
-## 🎓 Education
-
-### Bachelor's Degree in Computer Science
-📅 January 2014 - January 2018
-
-- 🎓 Graduated with a GPA of 8.35 from the National Institute of Technology.
-
-## 💡 Skills
-
+### Skills
+Here are some of the key skills I possess:
 - Version Control: Git
 - Cloud Technologies: AWS
 - Web Development: Node.js, Angular, React, Java (Vert.x), Rust
 - Automation: Docker, Kubernetes
 - Programming Languages: JavaScript, Java, Python, C
 
-Let's collaborate and build amazing open-source projects together! Feel free to reach out to me. 😄👨‍💻
+### Credits
+I'm grateful for the unwavering support of my friends and family who have been there throughout my journey. I'd like to express my heartfelt thanks to all those who have contributed to my open-source projects.
 
----
+If you share my passion for making the world a better place through technology and innovation, consider [connecting with me](https://www.linkedin.com/in/shanurcsenitap) or reaching out via [email](mailto:shanur.cse.nitap@gmail.com) or [GitHub](https://github.com/codebanesr).
