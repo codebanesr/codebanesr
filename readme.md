@@ -9,6 +9,8 @@ OpenCopilot utilizes large language models (LLMs) to determine if the user's req
 ### Open Source Contributions
 I've driven significant contributions to OpenChat, an open-source AI customer support bot platform. This project is written using langchain and includes support for multiple large language models and vector databases. OpenChat has received over 4500+ GitHub stars, and I've actively engaged with the community by addressing issues and assisting new contributors.
 
+[![Stat](https://github-readme-stats.vercel.app/api?username=codebanesr&count_private=true&show_icons=true&line_height=20&theme=default)](https://github.com/codebanesr) [![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebanesr&layout=compact&hide=HTML&theme=default_repocard)](https://github.com/codebanesr)
+
 OpenCopilot is another noteworthy open-source project I've contributed to. It allows you to have your own product's AI copilot, integrating with underlying APIs and executing API calls when needed, all driven by large language models. This project is hosted at [OpenCopilot](https://github.com/openchatai/OpenCopilot).
 
 ### Work Experience
