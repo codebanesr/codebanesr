@@ -1,5 +1,5 @@
 ### Hi there! 👋
-- 🚀 I'm Shanur Rahman, a Senior Product Specialist at [Penny](https://penny.co), and I'm passionate about making a positive impact through technology.
+- 🚀 Worked as a Senior Product Specialist at [Penny](https://penny.co), and I'm passionate about making a positive impact through technology.
 - 💡 I've contributed significantly to various open-source projects, including [OpenChat](https://github.com/openchatai/OpenChat) and [OpenCopilot](https://github.com/openchatai/OpenCopilot).
 
 OpenCopilot utilizes large language models (LLMs) to determine if the user's request requires calling an API endpoint, ultimately making tasks more efficient and accessible.
