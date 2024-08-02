@@ -1,5 +1,5 @@
 ### Hi there! 👋
-- 🚀 Currently working as Co-founder at [open.cx](https://open.cx), backed by Y Combinator.
+- 🚀 Co-founder at [open.cx](https://open.cx), backed by Y Combinator.
 - 💡 I've contributed significantly to various open-source projects, including [OpenChat](https://github.com/openchatai/OpenChat) and [OpenCopilot](https://github.com/openchatai/OpenCopilot).
 
 OpenCopilot utilizes large language models (LLMs) to determine if the user's request requires calling an API endpoint, ultimately making tasks more efficient and accessible.
