@@ -1,5 +1,5 @@
 ### Hi there! 👋
-- 🚀 Worked as a Senior Product Specialist at [Penny](https://penny.co), and I'm passionate about making a positive impact through technology.
+- 🚀 Currently working as Co-founder at [open.cx](https://open.cx), backed by Y Combinator.
 - 💡 I've contributed significantly to various open-source projects, including [OpenChat](https://github.com/openchatai/OpenChat) and [OpenCopilot](https://github.com/openchatai/OpenCopilot).
 
 OpenCopilot utilizes large language models (LLMs) to determine if the user's request requires calling an API endpoint, ultimately making tasks more efficient and accessible.
@@ -15,6 +15,13 @@ OpenCopilot is another noteworthy open-source project I've contributed to. It al
 
 ### Work Experience
 In the overview below, you will find my most recent work experience:
+
+[<img align="left" style="margin-right: 20px;" height="94px" width="94px" alt="open.cx" src="PATH_TO_OPEN_CX_LOGO"/>](https://open.cx)
+
+**Co-founder** \
+[**open.cx**](https://open.cx) • Full-time \
+Backed by Y Combinator \
+<br/>
 
 [<img align="left" style="margin-right: 20px;" height="94px" width="94px" alt="Penny" src="./images/penny_white.jpg?raw=true"/>](https://penny.co)
 
