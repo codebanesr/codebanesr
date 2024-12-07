@@ -74,6 +74,3 @@ Certainly! Here are the technologies you requested:
 - **Open Source**: Contributing to and maintaining open-source projects.
 - **Collaboration**: Seeking partnerships and collaborations in the AI space.
 
----
-
-Feel free to fork this README and customize it for your own profile! 🚀
