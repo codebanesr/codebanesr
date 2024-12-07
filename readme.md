@@ -5,6 +5,13 @@
 
 If you share my passion for making the world a better place through technology and innovation, consider [connecting with me](https://www.linkedin.com/in/shanurcsenitap) or reaching out via [email](mailto:shanur.cse.nitap@gmail.com) or [GitHub](https://github.com/codebanesr).
 
+### Support Us
 
-Support (Bitcoin network assets):
-bc1qe5zzuav86unsle7a3mtsxmgxhuqx3v05twz7fm
+You can support us with Bitcoin on the Bitcoin network:
+
+**Address:** `bc1qe5zzuav86unsle7a3mtsxmgxhuqx3v05twz7fm`
+
+Or, copy and paste this link into your wallet:  
+[`bitcoin:bc1qe5zzuav86unsle7a3mtsxmgxhuqx3v05twz7fm`](bitcoin:bc1qe5zzuav86unsle7a3mtsxmgxhuqx3v05twz7fm)
+
+---
