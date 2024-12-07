@@ -31,8 +31,8 @@ If you're interested in AI, open source, or want to collaborate, reach out:
 ---
 
 ### 🌐 Connect with me:
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shanur_cse)
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shanur.cse)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shanur__rahman)
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shanur.cse.nitap)
 
 ### 🛠️ Tech Stack
 Certainly! Here are the technologies you requested:
