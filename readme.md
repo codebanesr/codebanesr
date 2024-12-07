@@ -9,4 +9,6 @@ If you share my passion for making the world a better place through technology a
 
 You can support us with Bitcoin on the Bitcoin network:
 
-**Address:** `bc1qe5zzuav86unsle7a3mtsxmgxhuqx3v05twz7fm`
+**Address:** 
+BTC:`bc1qe5zzuav86unsle7a3mtsxmgxhuqx3v05twz7fm`
+Eth:`0x141eB74F75C2B8106b20E3581aad450f903dcA7d`
