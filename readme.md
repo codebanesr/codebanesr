@@ -35,9 +35,6 @@ If you're interested in AI, open source, or want to collaborate, reach out:
 - [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shanur.cse.nitap)
 
 ### 🛠️ Tech Stack
-Certainly! Here are the technologies you requested:
-
-### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00B0FF?style=for-the-badge&logo=ai&logoColor=white)
